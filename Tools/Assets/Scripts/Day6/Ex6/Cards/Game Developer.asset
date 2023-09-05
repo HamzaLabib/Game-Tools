@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2235607a2191e949b1b0e8d2aa99344, type: 3}
+  m_Name: Game Developer
+  m_EditorClassIdentifier: 
+  name: Game Developer
+  description: Ready for challenges
+  cost: 70
+  manaType: 1
+  backGroundColor: {r: 0.15176219, g: 0.3196363, b: 0.5471698, a: 1}
+  sprite: {fileID: 2800000, guid: d66ab03d3733ab24dafbffbb0c8699db, type: 3}
